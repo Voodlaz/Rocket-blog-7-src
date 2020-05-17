@@ -1,0 +1,2 @@
+[global.databases]
+prettycode_blog_db = { url= "postgres://postgres:dragon555@localhost/prettycode_blog_db"}

@@ -1,0 +1,16 @@
+.form {
+  margin-left: 25%;
+}
+
+.submit {
+  padding: 12px 12px;
+  color: black;
+  background-color: green;
+  border: none;
+  border-radius: 7px;
+  text-align: center;
+}
+
+.form input {
+  font-family: monospace;
+}

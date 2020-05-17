@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Rust Homepage</title>
+  <link rel="stylesheet" href="css/homepage.css" ></link>
+</head>
+<body>
+  <div class="topnav">
+    <a href="/" >BLOG.RS</a>
+  </div>
+</body>
+</html>

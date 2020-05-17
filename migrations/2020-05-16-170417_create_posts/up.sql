@@ -1,0 +1,8 @@
+-- Your SQL goes here
+
+CREATE TABLE posts (
+  name VARCHAR(20) NOT NULL,
+  body TEXT NOT NULL,
+  id SERIAL PRIMARY KEY,
+  creation_date TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP
+)
