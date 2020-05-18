@@ -2,7 +2,7 @@ table! {
     posts (id) {
         name -> Varchar,
         body -> Text,
+        data -> Nullable<Timestamp>,
         id -> Int4,
-        creation_date -> Timestamp,
     }
 }

@@ -1,0 +1,11 @@
+/home/inojelis/Documents/dev/rust_projects/Prettycode_blog/target/debug/deps/parse_zoneinfo-ff20a69cf4593a9c.rmeta: /home/inojelis/.cargo/registry/src/github.com-1ecc6299db9ec823/parse-zoneinfo-0.2.1/src/lib.rs /home/inojelis/.cargo/registry/src/github.com-1ecc6299db9ec823/parse-zoneinfo-0.2.1/src/line.rs /home/inojelis/.cargo/registry/src/github.com-1ecc6299db9ec823/parse-zoneinfo-0.2.1/src/structure.rs /home/inojelis/.cargo/registry/src/github.com-1ecc6299db9ec823/parse-zoneinfo-0.2.1/src/table.rs /home/inojelis/.cargo/registry/src/github.com-1ecc6299db9ec823/parse-zoneinfo-0.2.1/src/transitions.rs
+
+/home/inojelis/Documents/dev/rust_projects/Prettycode_blog/target/debug/deps/libparse_zoneinfo-ff20a69cf4593a9c.rlib: /home/inojelis/.cargo/registry/src/github.com-1ecc6299db9ec823/parse-zoneinfo-0.2.1/src/lib.rs /home/inojelis/.cargo/registry/src/github.com-1ecc6299db9ec823/parse-zoneinfo-0.2.1/src/line.rs /home/inojelis/.cargo/registry/src/github.com-1ecc6299db9ec823/parse-zoneinfo-0.2.1/src/structure.rs /home/inojelis/.cargo/registry/src/github.com-1ecc6299db9ec823/parse-zoneinfo-0.2.1/src/table.rs /home/inojelis/.cargo/registry/src/github.com-1ecc6299db9ec823/parse-zoneinfo-0.2.1/src/transitions.rs
+
+/home/inojelis/Documents/dev/rust_projects/Prettycode_blog/target/debug/deps/parse_zoneinfo-ff20a69cf4593a9c.d: /home/inojelis/.cargo/registry/src/github.com-1ecc6299db9ec823/parse-zoneinfo-0.2.1/src/lib.rs /home/inojelis/.cargo/registry/src/github.com-1ecc6299db9ec823/parse-zoneinfo-0.2.1/src/line.rs /home/inojelis/.cargo/registry/src/github.com-1ecc6299db9ec823/parse-zoneinfo-0.2.1/src/structure.rs /home/inojelis/.cargo/registry/src/github.com-1ecc6299db9ec823/parse-zoneinfo-0.2.1/src/table.rs /home/inojelis/.cargo/registry/src/github.com-1ecc6299db9ec823/parse-zoneinfo-0.2.1/src/transitions.rs
+
+/home/inojelis/.cargo/registry/src/github.com-1ecc6299db9ec823/parse-zoneinfo-0.2.1/src/lib.rs:
+/home/inojelis/.cargo/registry/src/github.com-1ecc6299db9ec823/parse-zoneinfo-0.2.1/src/line.rs:
+/home/inojelis/.cargo/registry/src/github.com-1ecc6299db9ec823/parse-zoneinfo-0.2.1/src/structure.rs:
+/home/inojelis/.cargo/registry/src/github.com-1ecc6299db9ec823/parse-zoneinfo-0.2.1/src/table.rs:
+/home/inojelis/.cargo/registry/src/github.com-1ecc6299db9ec823/parse-zoneinfo-0.2.1/src/transitions.rs:

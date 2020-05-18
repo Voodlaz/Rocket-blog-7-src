@@ -1,0 +1,11 @@
+/home/inojelis/Documents/dev/rust_projects/Prettycode_blog/target/debug/deps/unic_char_range-5beb9a48c7401208.rmeta: /home/inojelis/.cargo/registry/src/github.com-1ecc6299db9ec823/unic-char-range-0.9.0/src/lib.rs /home/inojelis/.cargo/registry/src/github.com-1ecc6299db9ec823/unic-char-range-0.9.0/src/pkg_info.rs /home/inojelis/.cargo/registry/src/github.com-1ecc6299db9ec823/unic-char-range-0.9.0/src/iter.rs /home/inojelis/.cargo/registry/src/github.com-1ecc6299db9ec823/unic-char-range-0.9.0/src/range.rs /home/inojelis/.cargo/registry/src/github.com-1ecc6299db9ec823/unic-char-range-0.9.0/src/macros.rs /home/inojelis/.cargo/registry/src/github.com-1ecc6299db9ec823/unic-char-range-0.9.0/src/step.rs /home/inojelis/.cargo/registry/src/github.com-1ecc6299db9ec823/unic-char-range-0.9.0/src/iter_fused.rs
+
+/home/inojelis/Documents/dev/rust_projects/Prettycode_blog/target/debug/deps/unic_char_range-5beb9a48c7401208.d: /home/inojelis/.cargo/registry/src/github.com-1ecc6299db9ec823/unic-char-range-0.9.0/src/lib.rs /home/inojelis/.cargo/registry/src/github.com-1ecc6299db9ec823/unic-char-range-0.9.0/src/pkg_info.rs /home/inojelis/.cargo/registry/src/github.com-1ecc6299db9ec823/unic-char-range-0.9.0/src/iter.rs /home/inojelis/.cargo/registry/src/github.com-1ecc6299db9ec823/unic-char-range-0.9.0/src/range.rs /home/inojelis/.cargo/registry/src/github.com-1ecc6299db9ec823/unic-char-range-0.9.0/src/macros.rs /home/inojelis/.cargo/registry/src/github.com-1ecc6299db9ec823/unic-char-range-0.9.0/src/step.rs /home/inojelis/.cargo/registry/src/github.com-1ecc6299db9ec823/unic-char-range-0.9.0/src/iter_fused.rs
+
+/home/inojelis/.cargo/registry/src/github.com-1ecc6299db9ec823/unic-char-range-0.9.0/src/lib.rs:
+/home/inojelis/.cargo/registry/src/github.com-1ecc6299db9ec823/unic-char-range-0.9.0/src/pkg_info.rs:
+/home/inojelis/.cargo/registry/src/github.com-1ecc6299db9ec823/unic-char-range-0.9.0/src/iter.rs:
+/home/inojelis/.cargo/registry/src/github.com-1ecc6299db9ec823/unic-char-range-0.9.0/src/range.rs:
+/home/inojelis/.cargo/registry/src/github.com-1ecc6299db9ec823/unic-char-range-0.9.0/src/macros.rs:
+/home/inojelis/.cargo/registry/src/github.com-1ecc6299db9ec823/unic-char-range-0.9.0/src/step.rs:
+/home/inojelis/.cargo/registry/src/github.com-1ecc6299db9ec823/unic-char-range-0.9.0/src/iter_fused.rs:

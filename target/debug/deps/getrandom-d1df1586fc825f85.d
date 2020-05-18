@@ -1,0 +1,11 @@
+/home/inojelis/Documents/dev/rust_projects/Prettycode_blog/target/debug/deps/getrandom-d1df1586fc825f85.rmeta: /home/inojelis/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.14/src/lib.rs /home/inojelis/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.14/src/error.rs /home/inojelis/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.14/src/util.rs /home/inojelis/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.14/src/use_file.rs /home/inojelis/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.14/src/util_libc.rs /home/inojelis/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.14/src/error_impls.rs /home/inojelis/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.14/src/linux_android.rs
+
+/home/inojelis/Documents/dev/rust_projects/Prettycode_blog/target/debug/deps/getrandom-d1df1586fc825f85.d: /home/inojelis/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.14/src/lib.rs /home/inojelis/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.14/src/error.rs /home/inojelis/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.14/src/util.rs /home/inojelis/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.14/src/use_file.rs /home/inojelis/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.14/src/util_libc.rs /home/inojelis/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.14/src/error_impls.rs /home/inojelis/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.14/src/linux_android.rs
+
+/home/inojelis/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.14/src/lib.rs:
+/home/inojelis/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.14/src/error.rs:
+/home/inojelis/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.14/src/util.rs:
+/home/inojelis/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.14/src/use_file.rs:
+/home/inojelis/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.14/src/util_libc.rs:
+/home/inojelis/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.14/src/error_impls.rs:
+/home/inojelis/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.14/src/linux_android.rs:

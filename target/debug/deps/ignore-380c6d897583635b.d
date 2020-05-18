@@ -1,0 +1,12 @@
+/home/inojelis/Documents/dev/rust_projects/Prettycode_blog/target/debug/deps/ignore-380c6d897583635b.rmeta: /home/inojelis/.cargo/registry/src/github.com-1ecc6299db9ec823/ignore-0.4.15/src/lib.rs /home/inojelis/.cargo/registry/src/github.com-1ecc6299db9ec823/ignore-0.4.15/src/default_types.rs /home/inojelis/.cargo/registry/src/github.com-1ecc6299db9ec823/ignore-0.4.15/src/dir.rs /home/inojelis/.cargo/registry/src/github.com-1ecc6299db9ec823/ignore-0.4.15/src/gitignore.rs /home/inojelis/.cargo/registry/src/github.com-1ecc6299db9ec823/ignore-0.4.15/src/overrides.rs /home/inojelis/.cargo/registry/src/github.com-1ecc6299db9ec823/ignore-0.4.15/src/pathutil.rs /home/inojelis/.cargo/registry/src/github.com-1ecc6299db9ec823/ignore-0.4.15/src/types.rs /home/inojelis/.cargo/registry/src/github.com-1ecc6299db9ec823/ignore-0.4.15/src/walk.rs
+
+/home/inojelis/Documents/dev/rust_projects/Prettycode_blog/target/debug/deps/ignore-380c6d897583635b.d: /home/inojelis/.cargo/registry/src/github.com-1ecc6299db9ec823/ignore-0.4.15/src/lib.rs /home/inojelis/.cargo/registry/src/github.com-1ecc6299db9ec823/ignore-0.4.15/src/default_types.rs /home/inojelis/.cargo/registry/src/github.com-1ecc6299db9ec823/ignore-0.4.15/src/dir.rs /home/inojelis/.cargo/registry/src/github.com-1ecc6299db9ec823/ignore-0.4.15/src/gitignore.rs /home/inojelis/.cargo/registry/src/github.com-1ecc6299db9ec823/ignore-0.4.15/src/overrides.rs /home/inojelis/.cargo/registry/src/github.com-1ecc6299db9ec823/ignore-0.4.15/src/pathutil.rs /home/inojelis/.cargo/registry/src/github.com-1ecc6299db9ec823/ignore-0.4.15/src/types.rs /home/inojelis/.cargo/registry/src/github.com-1ecc6299db9ec823/ignore-0.4.15/src/walk.rs
+
+/home/inojelis/.cargo/registry/src/github.com-1ecc6299db9ec823/ignore-0.4.15/src/lib.rs:
+/home/inojelis/.cargo/registry/src/github.com-1ecc6299db9ec823/ignore-0.4.15/src/default_types.rs:
+/home/inojelis/.cargo/registry/src/github.com-1ecc6299db9ec823/ignore-0.4.15/src/dir.rs:
+/home/inojelis/.cargo/registry/src/github.com-1ecc6299db9ec823/ignore-0.4.15/src/gitignore.rs:
+/home/inojelis/.cargo/registry/src/github.com-1ecc6299db9ec823/ignore-0.4.15/src/overrides.rs:
+/home/inojelis/.cargo/registry/src/github.com-1ecc6299db9ec823/ignore-0.4.15/src/pathutil.rs:
+/home/inojelis/.cargo/registry/src/github.com-1ecc6299db9ec823/ignore-0.4.15/src/types.rs:
+/home/inojelis/.cargo/registry/src/github.com-1ecc6299db9ec823/ignore-0.4.15/src/walk.rs:
