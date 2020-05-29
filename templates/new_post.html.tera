@@ -11,8 +11,8 @@
   </div>
   <div class="form">
     <form method="post">
-      <p>Name:<input type="text" name="name" id="name"></p>
-      <p>Name:<input type="text" name="body" id="body"></p>
+      <p>Name:<input type="text" name="name" id="name" required></p>
+      <p>Name:<input type="text" name="body" id="body" required></p>
       <p><input type="submit" class="submit" value="submit"></p>
       {% if validation_error %}
         {{ validation_error }}

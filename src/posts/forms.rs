@@ -8,10 +8,11 @@ pub struct NewPostForm {
     pub body: String
 }
 
-#[derive(Queryable)]
+
+#[derive(Debug, Queryable, Serialize)]
 pub struct Post {
     pub name: String,
     pub body: String,
-    pub creation_date: NaiveDateTime,
+    pub creation_date: Option<NaiveDateTime>,
     pub id: i32
 }

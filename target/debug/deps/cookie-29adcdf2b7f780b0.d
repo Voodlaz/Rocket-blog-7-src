@@ -1,0 +1,12 @@
+/home/inojelis/Documents/dev/rust_projects/Prettycode_blog/target/debug/deps/cookie-29adcdf2b7f780b0.rmeta: /home/inojelis/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.11.2/src/lib.rs /home/inojelis/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.11.2/src/builder.rs /home/inojelis/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.11.2/src/parse.rs /home/inojelis/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.11.2/src/jar.rs /home/inojelis/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.11.2/src/delta.rs /home/inojelis/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.11.2/src/draft.rs
+
+/home/inojelis/Documents/dev/rust_projects/Prettycode_blog/target/debug/deps/libcookie-29adcdf2b7f780b0.rlib: /home/inojelis/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.11.2/src/lib.rs /home/inojelis/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.11.2/src/builder.rs /home/inojelis/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.11.2/src/parse.rs /home/inojelis/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.11.2/src/jar.rs /home/inojelis/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.11.2/src/delta.rs /home/inojelis/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.11.2/src/draft.rs
+
+/home/inojelis/Documents/dev/rust_projects/Prettycode_blog/target/debug/deps/cookie-29adcdf2b7f780b0.d: /home/inojelis/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.11.2/src/lib.rs /home/inojelis/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.11.2/src/builder.rs /home/inojelis/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.11.2/src/parse.rs /home/inojelis/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.11.2/src/jar.rs /home/inojelis/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.11.2/src/delta.rs /home/inojelis/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.11.2/src/draft.rs
+
+/home/inojelis/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.11.2/src/lib.rs:
+/home/inojelis/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.11.2/src/builder.rs:
+/home/inojelis/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.11.2/src/parse.rs:
+/home/inojelis/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.11.2/src/jar.rs:
+/home/inojelis/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.11.2/src/delta.rs:
+/home/inojelis/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.11.2/src/draft.rs:

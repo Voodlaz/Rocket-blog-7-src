@@ -1,4 +1,4 @@
 use diesel::PgConnection;
 
-#[database("pg_db")]
+#[database("prettycode_blog_db")]
 pub struct DbConn(PgConnection);

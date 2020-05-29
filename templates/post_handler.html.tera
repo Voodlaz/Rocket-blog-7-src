@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Rust Homepage</title>
+  <link rel="stylesheet" href="/css/homepage.css" ></link>
+</head>
+<body>
+  <div class="topnav">
+    <a href="/" >BLOG.RS</a>
+  </div>
+  {% for post in posts %}
+    <div class="post-card">
+      <p><a style="font-size: 27px; color: black; font-weight: 500;" href="">{{ post.name }}</a><p>
+      <p><a>{{ post.body }}</a></p>
+    </div>
+  {% endfor %}
+  </div>
+</body>
+</html>
