@@ -1,1 +1,1 @@
-web: ROCKET_PORT=$PORT ROCKET_ENV=dev ./target/release/prettycode_blog
+web: ROCKET_PORT=$PORT ROCKET_KEEP_ALIVE=0./target/release/prettycode_blog
