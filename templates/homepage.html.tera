@@ -2,7 +2,7 @@
 <html>
 <head>
   <title>Rust Homepage</title>
-  <link rel="stylesheet" href="css/homepage.css" ></link>
+  <link rel="stylesheet" href="/css/homepage.css" ></link>
 </head>
 <body>
   <div class="topnav">
