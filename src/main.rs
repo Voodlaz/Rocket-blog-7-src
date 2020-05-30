@@ -4,6 +4,7 @@
 #[macro_use] extern crate diesel;
 #[macro_use] extern crate serde_derive;
 
+
 mod db_conn;
 mod schema;
 mod posts;
