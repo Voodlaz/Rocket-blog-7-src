@@ -1,2 +1,2 @@
 [global.databases]
-prettycode_blog_db = { url= "postgres://postgres:dragon555@prettycodeblog.herokuapp.com/prettycode_blog_db"}
+prettycode_blog_db = { url= "postgres://postgres:dragon555@0.0.0.0/prettycode_blog_db"}
