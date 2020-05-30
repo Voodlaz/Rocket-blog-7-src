@@ -15,6 +15,7 @@ use rocket_contrib::templates::Template;
 
 use rocket_contrib::serve::StaticFiles;
 
+
 use crate::schema::posts::dsl::*;
 use diesel::RunQueryDsl;
 use db_conn::DbConn;
