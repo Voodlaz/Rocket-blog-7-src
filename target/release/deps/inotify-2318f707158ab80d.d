@@ -1,0 +1,12 @@
+/home/inojelis/Documents/dev/rust_projects/Prettycode_blog/target/release/deps/inotify-2318f707158ab80d.rmeta: /home/inojelis/.cargo/registry/src/github.com-1ecc6299db9ec823/inotify-0.7.0/src/lib.rs /home/inojelis/.cargo/registry/src/github.com-1ecc6299db9ec823/inotify-0.7.0/src/events.rs /home/inojelis/.cargo/registry/src/github.com-1ecc6299db9ec823/inotify-0.7.0/src/fd_guard.rs /home/inojelis/.cargo/registry/src/github.com-1ecc6299db9ec823/inotify-0.7.0/src/inotify.rs /home/inojelis/.cargo/registry/src/github.com-1ecc6299db9ec823/inotify-0.7.0/src/util.rs /home/inojelis/.cargo/registry/src/github.com-1ecc6299db9ec823/inotify-0.7.0/src/watches.rs
+
+/home/inojelis/Documents/dev/rust_projects/Prettycode_blog/target/release/deps/libinotify-2318f707158ab80d.rlib: /home/inojelis/.cargo/registry/src/github.com-1ecc6299db9ec823/inotify-0.7.0/src/lib.rs /home/inojelis/.cargo/registry/src/github.com-1ecc6299db9ec823/inotify-0.7.0/src/events.rs /home/inojelis/.cargo/registry/src/github.com-1ecc6299db9ec823/inotify-0.7.0/src/fd_guard.rs /home/inojelis/.cargo/registry/src/github.com-1ecc6299db9ec823/inotify-0.7.0/src/inotify.rs /home/inojelis/.cargo/registry/src/github.com-1ecc6299db9ec823/inotify-0.7.0/src/util.rs /home/inojelis/.cargo/registry/src/github.com-1ecc6299db9ec823/inotify-0.7.0/src/watches.rs
+
+/home/inojelis/Documents/dev/rust_projects/Prettycode_blog/target/release/deps/inotify-2318f707158ab80d.d: /home/inojelis/.cargo/registry/src/github.com-1ecc6299db9ec823/inotify-0.7.0/src/lib.rs /home/inojelis/.cargo/registry/src/github.com-1ecc6299db9ec823/inotify-0.7.0/src/events.rs /home/inojelis/.cargo/registry/src/github.com-1ecc6299db9ec823/inotify-0.7.0/src/fd_guard.rs /home/inojelis/.cargo/registry/src/github.com-1ecc6299db9ec823/inotify-0.7.0/src/inotify.rs /home/inojelis/.cargo/registry/src/github.com-1ecc6299db9ec823/inotify-0.7.0/src/util.rs /home/inojelis/.cargo/registry/src/github.com-1ecc6299db9ec823/inotify-0.7.0/src/watches.rs
+
+/home/inojelis/.cargo/registry/src/github.com-1ecc6299db9ec823/inotify-0.7.0/src/lib.rs:
+/home/inojelis/.cargo/registry/src/github.com-1ecc6299db9ec823/inotify-0.7.0/src/events.rs:
+/home/inojelis/.cargo/registry/src/github.com-1ecc6299db9ec823/inotify-0.7.0/src/fd_guard.rs:
+/home/inojelis/.cargo/registry/src/github.com-1ecc6299db9ec823/inotify-0.7.0/src/inotify.rs:
+/home/inojelis/.cargo/registry/src/github.com-1ecc6299db9ec823/inotify-0.7.0/src/util.rs:
+/home/inojelis/.cargo/registry/src/github.com-1ecc6299db9ec823/inotify-0.7.0/src/watches.rs:
